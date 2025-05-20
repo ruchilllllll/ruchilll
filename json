@@ -1,0 +1,45 @@
+[
+  {
+    "category": "achievements",
+    "items": [
+      {
+        "title": "Won State-Level Hackathon",
+        "year": 2022
+      },
+      {
+        "title": "Volunteered at XYZ NGO",
+        "year": 2023
+      }
+    ]
+  },
+  {
+    "category": "favoriteBooks",
+    "items": [
+      {
+        "title": "Clean Code",
+        "author": "Robert C. Martin"
+      },
+      {
+        "title": "The Lean Startup",
+        "author": "Eric Ries"
+      }
+    ]
+  },
+  {
+    "category": "testimonials",
+    "items": [
+      {
+        "name": "Jane Doe",
+        "feedback": "Excellent teamwork and problem-solving skills."
+      },
+      {
+        "name": "John Smith",
+        "feedback": "Highly professional and dedicated."
+      }
+    ]
+  },
+  {
+    "category": "hobbies",
+    "items": ["Gaming", "Reading", "Hiking", "Coding"]
+  }
+]
